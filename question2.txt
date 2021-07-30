@@ -1,0 +1,3 @@
+a) Yes, you are able to pass the exam assuming the pass mark is 50%. The optimal sleep/study solution would be to study for 12 hours and sleep for 4 hours. This would give you a score of 50.0718%. Please see my Excel sheet for the math.
+
+b) There is a 1 in 29 / (349 + 29) chance that the classmate is a math major, which is a 7.672% chance.
