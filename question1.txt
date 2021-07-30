@@ -1,0 +1,2 @@
+If the full length of string burns out in 10 minutes, then I would light both ends of the first string. No matter what speed each section burns at, the whole string will be burnt out in exactly 5 minutes. 
+As soon as the first string burns out, assuming the time to light the string is negligible, I would light the second string on both ends and in the middle. The second string will then burn out in 2.5 minutes, at which point I would inform the guard that the 7 and a half minutes have elapsed.
